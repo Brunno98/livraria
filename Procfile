@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* br.com.Livraria.LivrariaApplication
+web: java -jar target/Livraria-0.0.1-SNAPSHOT.jar
