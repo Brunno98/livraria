@@ -2,9 +2,6 @@
 Trabalho da disciplina de Programação Orientada a objetos em Java, onde o aluno deve criar uma página que realize um CRUD para algum produto.
 <hr>
 
-<h3>Link do projeto no Heroku: https://stormy-retreat-07622.herokuapp.com/ </h3>
-<hr>
-
 <b>Trabalho:</b>
 Faça um programa em Java seguindo as orientações abaixo:
 <ul>
